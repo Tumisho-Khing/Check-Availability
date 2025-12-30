@@ -1313,7 +1313,7 @@
             "mapper": {
                 "ca": "",
                 "qs": [],
-                "url": "https://api.cal.com/v1/slots?eventTypeId=1950442&startTime={{3.result.start_date}}&endTime={{3.result.end_date}}&timeZone=Africa%2FJohannesburg&apiKey=cal_live_57a0589384557666f30c2764da7fd4cc",
+                "url": "https://api.cal.com/v1/slots?eventTypeId=1950442&startTime={{3.result.start_date}}&endTime={{3.result.end_date}}&timeZone=Africa%2FJohannesburg&apiKey=[Paste Your calendly api-key]",
                 "gzip": true,
                 "method": "get",
                 "headers": [],
